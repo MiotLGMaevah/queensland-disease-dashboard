@@ -1,5 +1,5 @@
 # Queensland Notifiable Conditions Dashboard
-
+https://miotlgmaevah.github.io/queensland-disease-dashboard/
 Created by Maevah Miot.
 
 An interactive descriptive dashboard of quarterly reported condition counts in Queensland, Australia, 2010–2014. Includes a cover, introduction, three charts, condition/category detail views, and data references.
